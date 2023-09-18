@@ -1,13 +1,14 @@
+
+## Project folder structure
 1. Default-home page:
-    I.   navbar-top component		(lang / currency && login and sign-in || my-profile)
-    II.  navbar component 		    (drop-down menu bar)
-    III. card component 		    
-    IV.  best seller component	    (with custom filter)
-    V.   banner component           (the picture in banner component must be carusel and and all the five star 
-                                    items should be displayed in banner image carusel;)
-    VI.  shipping-support component
-    VII. featured component with search bar
-    VII. footer component
+    1.   navbar-top component		(lang / currency && login and sign-in || my-profile)
+    2.   navbar component 		    (drop-down menu bar)
+    3.   card component 		    
+    4.   best seller component	    (with custom filter)
+    5.   banner component           (the picture in banner component must be carusel and and all the five star items should be displayed in it)
+    6.   shipping-support component
+    7.   featured component with search bar
+    8.   footer component
 
 
 When selected any item in drop-down menu on navabar
