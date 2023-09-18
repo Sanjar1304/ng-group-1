@@ -11,7 +11,7 @@
     8.  footer component
 
 
-When selected any item in drop-down menu on navabar
+## When selected any item in drop-down menu on navabar
 2. product-list page:
     1.  navbar-top component		 (lang / currency && login and sign-in || my-profile)
     2.  navbar component 			 (drop-down menu bar)
@@ -24,7 +24,7 @@ When selected any item in drop-down menu on navabar
     9.  footer component
 
 
-When selected exact product
+## When selected exact product
 3. product page:
     1.  navbar-top component			(lang / currency && login and sign-in || my-profile)
     2.  navbar component 				(drop-down menu bar)
@@ -34,7 +34,7 @@ When selected exact product
     6.  footer component
 
 
-When entered cart
+## When entered cart
 4. cart page:
     1.  navbar-top component			(lang / currency && login and sign-in || my-profile)
     2.  navbar component 				(drop-down menu bar)
@@ -44,7 +44,7 @@ When entered cart
     6.  footer component
 
 
-When contact button is clicked
+## When contact button is clicked
 5. contact page:
     1.  navbar-top component			(lang / currency && login and sign-in || my-profile)
     2.  navbar component 				(drop-down menu bar)
@@ -54,23 +54,22 @@ When contact button is clicked
     6.  footer component
 
 
-When the check out button is clicked inside the total price
-payment modal is displayed:
-Modal - 1:
+## When the check out button is clicked inside the total price payment modal is displayed:
+## Modal - 1:
     1.   modal header icons
     2.   modal title
     3.   payment process
     4.   buyer's info form
     5.   go to payment button for confirmation to next process
 
-Modal - 2:
+## Modal - 2:
     1.   modal header icons modal header icons
     2.   modal title modal title
     3.   payment process payment process
     4.   buyer's info form buyer's credit card form
     5.   go to payment button for confirmation to next process confirm button for to next process
 
-Modal - 3:
+## Modal - 3:
     1.   modal header iconsmodal header icons
     2.   modal titlemodal title
     3.   payment processpayment process
