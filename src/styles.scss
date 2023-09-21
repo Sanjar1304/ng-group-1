@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700&display=swap');
+
+/*================== VARIABLE SCSS ==================*/
+
+:root {
+    /*================== COLORS ==================*/
+    --primary-blue: #40BFFF;
+    --nav-text-color: #262626;
+    --nav-icon-color: #22262A;
+    --nav-ellipse-num: #FB7181;
+    --banner-card-bg: #C1C8CE;
+    --card-text-color: #223263;
+    --card-hot-color: #FF4858;
+    --ship-supp-color: #FF6875;
+    --discount-line-color: #5D656B;
+    --star-yellow: #FFC600;
+    --star-grey: #C1C8CE;
+    --footer-bg-color: #BCDDFE;
+    --base-bg-color: #F6F7F8;
+    --input-bg-color: #DFDEDE;
+    --divider-color: #FAFAFB;
+    /*================== FONTS AND TYPOGRAPHY ==================*/
+    --body-font: font-family: 'Poppins';
+    --h1-font-size: 2rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.2rem;
+    --normal-font-size: 1rem;
+    --smaller-font-size: .85rem;
+    /*================== FONTS WEIGHT ==================*/
+    --font-bold: 700;
+    --font-semi-bold: 600;
+    --font-medium: 500;
+    --font-semi-medium: 400;
+    --font-light: 200;
+}
