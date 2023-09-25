@@ -4,21 +4,21 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { HeaderComponent } from './mains/header/header.component';
-import { BannerCaruselComponent } from './mains/banner-carusel/banner-carusel.component';
-import { BestSellerComponent } from './mains/best-seller/best-seller.component';
-import { StaticBannerComponent } from './mains/static-banner/static-banner.component';
-import { ShippingSupportComponent } from './mains/shipping-support/shipping-support.component';
-import { FeaturedProductsComponent } from './mains/featured-products/featured-products.component';
-import { FooterComponent } from './mains/footer/footer.component';
-import { CartComponent } from './mains/cart/cart.component';
-import { ProductsCardComponent } from './mains/products-card/products-card.component';
-import { SidebarMenuComponent } from './mains/sidebar-menu/sidebar-menu.component';
-import { ProductFrameComponent } from './mains/product-frame/product-frame.component';
-import { PaymentModalComponent } from './mains/payment-modal/payment-modal.component';
-import { ContactFormComponent } from './mains/contact-form/contact-form.component';
-import { LoginComponent } from './mains/login/login.component';
-import { SignupComponent } from './mains/signup/signup.component';
+import { HeaderComponent } from './shared/components/header/header.component';
+import { BannerCaruselComponent } from './shared/components/banner-carusel/banner-carusel.component';
+import { BestSellerComponent } from './shared/components/best-seller/best-seller.component';
+import { StaticBannerComponent } from './shared/components/static-banner/static-banner.component';
+import { ShippingSupportComponent } from './shared/components/shipping-support/shipping-support.component';
+import { FeaturedProductsComponent } from './shared/components/featured-products/featured-products.component';
+import { FooterComponent } from './shared/components/footer/footer.component';
+import { CartComponent } from './shared/components/cart/cart.component';
+import { ProductsCardComponent } from './shared/components/products-card/products-card.component';
+import { SidebarMenuComponent } from './shared/components/sidebar-menu/sidebar-menu.component';
+import { ProductFrameComponent } from './shared/components/product-frame/product-frame.component';
+import { PaymentModalComponent } from './shared/components/payment-modal/payment-modal.component';
+import { ContactFormComponent } from './shared/components/contact-form/contact-form.component';
+import { LoginComponent } from './shared/components/login/login.component';
+import { SignupComponent } from './shared/components/signup/signup.component';
 
 @NgModule({
   declarations: [
